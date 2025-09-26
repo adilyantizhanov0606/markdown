@@ -9,3 +9,18 @@
 _This text is also italic_
 
 Tnis is just regular text.
+
+**This is bolded text**
+
+***This is Bold and Italic text***
+
+Unordeder List:
+- Item 1 
+- Item 2 
+    - Item 2a
+    - Item 2b
+
+  Ordered list: 
+  1. First Item 
+  2. Second Item 
+
