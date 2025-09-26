@@ -24,3 +24,11 @@ Unordeder List:
   1. First Item 
   2. Second Item 
 
+This is thr link:
+[Google's website](https.google.com)
+
+This is an image:
+
+![GitHub Logo] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+![Screen Shot](images/123.png)
